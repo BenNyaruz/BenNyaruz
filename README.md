@@ -2,7 +2,6 @@
 - 👀 I’m interested in Secure Programing, Artifical Intelligence and Data Analytics.
 - 🌱 I’m currently learning to be a Full Stack Developer and Data Analyst.
 - 💞️ I’m looking to collaborate on Artificial Intelligence in the advatising industry.
-- 📫 How to reach me bennyaruviro@gmail.com
 
 <!---
 BenNyaruz/BenNyaruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
